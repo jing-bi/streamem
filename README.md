@@ -1,10 +1,6 @@
-# 🎥 <span style="color:rgb(1, 117, 156);">Strea</span><span style="color:rgb(236, 104, 52);">mem</span>
-
-**High-Performance Video Streaming Memory for Multi-Model Processing**
+![Streamem Cover](assets/cover.png)
 
 *Part of the DARPA PTG MILLY Project* 🛡️
-
-
 
 ## 📋 Overview
 

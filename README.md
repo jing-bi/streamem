@@ -10,6 +10,9 @@
 
 Streamem is a high-performance streaming memory system designed for efficient video frame distribution across multiple AI models and packages, developed as part of the DARPA Perceptually-enabled Task Guidance (PTG) MILLY project. It provides minimal memory fingerprinting while enabling seamless video streaming to various processing pipelines with different requirements.
 
+![TLDR Pipeline Overview](assets/tldr.png)
+
+
 ## 🎯 Use Case
 
 Our primary use case involves processing camera streams from HoloLens devices through multiple AI models simultaneously, each with unique environment requirements:
